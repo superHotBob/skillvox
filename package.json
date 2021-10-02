@@ -1,0 +1,22 @@
+{
+  "name": "server-skill",
+  "version": "1.0.0",
+  "description": "skillvox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "skillvox"
+  },
+  "keywords": [
+    "my",
+    "works"
+  ],
+  "author": "alex",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
