@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a33e7a8c.chunk.css",
-    "main.js": "/static/js/main.52580524.chunk.js",
-    "main.js.map": "/static/js/main.52580524.chunk.js.map",
+    "main.css": "/static/css/main.3715c44b.chunk.css",
+    "main.js": "/static/js/main.a600b9ac.chunk.js",
+    "main.js.map": "/static/js/main.a600b9ac.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6097e04a.js",
     "runtime-main.js.map": "/static/js/runtime-main.6097e04a.js.map",
     "static/css/2.16cde405.chunk.css": "/static/css/2.16cde405.chunk.css",
-    "static/js/2.c26678a5.chunk.js": "/static/js/2.c26678a5.chunk.js",
-    "static/js/2.c26678a5.chunk.js.map": "/static/js/2.c26678a5.chunk.js.map",
+    "static/js/2.219ec2de.chunk.js": "/static/js/2.219ec2de.chunk.js",
+    "static/js/2.219ec2de.chunk.js.map": "/static/js/2.219ec2de.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.16cde405.chunk.css.map": "/static/css/2.16cde405.chunk.css.map",
-    "static/css/main.a33e7a8c.chunk.css.map": "/static/css/main.a33e7a8c.chunk.css.map",
-    "static/js/2.c26678a5.chunk.js.LICENSE.txt": "/static/js/2.c26678a5.chunk.js.LICENSE.txt",
+    "static/css/main.3715c44b.chunk.css.map": "/static/css/main.3715c44b.chunk.css.map",
+    "static/js/2.219ec2de.chunk.js.LICENSE.txt": "/static/js/2.219ec2de.chunk.js.LICENSE.txt",
     "static/media/Aeronautics.4b43605b.png": "/static/media/Aeronautics.4b43605b.png",
     "static/media/style.module.scss": "/static/media/RobotoSlab-Regular.9b6fabb6.eot",
     "static/media/Astronomy.2e88bf4e.png": "/static/media/Astronomy.2e88bf4e.png",
@@ -27,6 +27,7 @@
     "static/media/Nutrition.e2b75a9f.png": "/static/media/Nutrition.e2b75a9f.png",
     "static/media/Physics.d033ec8d.png": "/static/media/Physics.d033ec8d.png",
     "static/media/Robotics.f963ccc6.png": "/static/media/Robotics.f963ccc6.png",
+    "static/media/Sponsorship-ended-icon.86ab0b5b.png": "/static/media/Sponsorship-ended-icon.86ab0b5b.png",
     "static/media/Tourism.baf72f1e.png": "/static/media/Tourism.baf72f1e.png",
     "static/media/addAnotherUser.3af093c4.svg": "/static/media/addAnotherUser.3af093c4.svg",
     "static/media/burgerMenu.e32c6fec.svg": "/static/media/burgerMenu.e32c6fec.svg",
@@ -41,8 +42,8 @@
   "entrypoints": [
     "static/js/runtime-main.6097e04a.js",
     "static/css/2.16cde405.chunk.css",
-    "static/js/2.c26678a5.chunk.js",
-    "static/css/main.a33e7a8c.chunk.css",
-    "static/js/main.52580524.chunk.js"
+    "static/js/2.219ec2de.chunk.js",
+    "static/css/main.3715c44b.chunk.css",
+    "static/js/main.a600b9ac.chunk.js"
   ]
 }
