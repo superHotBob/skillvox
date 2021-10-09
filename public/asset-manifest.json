@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d7881b3.chunk.css",
-    "main.js": "/static/js/main.0c89543c.chunk.js",
-    "main.js.map": "/static/js/main.0c89543c.chunk.js.map",
+    "main.css": "/static/css/main.92777602.chunk.css",
+    "main.js": "/static/js/main.d1d4f93e.chunk.js",
+    "main.js.map": "/static/js/main.d1d4f93e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6097e04a.js",
     "runtime-main.js.map": "/static/js/runtime-main.6097e04a.js.map",
     "static/css/2.16cde405.chunk.css": "/static/css/2.16cde405.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.219ec2de.chunk.js.map": "/static/js/2.219ec2de.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.16cde405.chunk.css.map": "/static/css/2.16cde405.chunk.css.map",
-    "static/css/main.4d7881b3.chunk.css.map": "/static/css/main.4d7881b3.chunk.css.map",
+    "static/css/main.92777602.chunk.css.map": "/static/css/main.92777602.chunk.css.map",
     "static/js/2.219ec2de.chunk.js.LICENSE.txt": "/static/js/2.219ec2de.chunk.js.LICENSE.txt",
     "static/media/Aeronautics.4b43605b.png": "/static/media/Aeronautics.4b43605b.png",
     "static/media/style.module.scss": "/static/media/RobotoSlab-Regular.9b6fabb6.eot",
@@ -43,7 +43,7 @@
     "static/js/runtime-main.6097e04a.js",
     "static/css/2.16cde405.chunk.css",
     "static/js/2.219ec2de.chunk.js",
-    "static/css/main.4d7881b3.chunk.css",
-    "static/js/main.0c89543c.chunk.js"
+    "static/css/main.92777602.chunk.css",
+    "static/js/main.d1d4f93e.chunk.js"
   ]
 }
