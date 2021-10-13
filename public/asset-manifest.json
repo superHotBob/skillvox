@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.8234c1f7.chunk.css",
-    "main.js": "/static/js/main.852403d6.chunk.js",
-    "main.js.map": "/static/js/main.852403d6.chunk.js.map",
+    "main.css": "/static/css/main.13865f98.chunk.css",
+    "main.js": "/static/js/main.b9effb93.chunk.js",
+    "main.js.map": "/static/js/main.b9effb93.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6097e04a.js",
     "runtime-main.js.map": "/static/js/runtime-main.6097e04a.js.map",
     "static/css/2.16cde405.chunk.css": "/static/css/2.16cde405.chunk.css",
-    "static/js/2.4c9f8890.chunk.js": "/static/js/2.4c9f8890.chunk.js",
-    "static/js/2.4c9f8890.chunk.js.map": "/static/js/2.4c9f8890.chunk.js.map",
+    "static/js/2.03738d74.chunk.js": "/static/js/2.03738d74.chunk.js",
+    "static/js/2.03738d74.chunk.js.map": "/static/js/2.03738d74.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.16cde405.chunk.css.map": "/static/css/2.16cde405.chunk.css.map",
-    "static/css/main.8234c1f7.chunk.css.map": "/static/css/main.8234c1f7.chunk.css.map",
-    "static/js/2.4c9f8890.chunk.js.LICENSE.txt": "/static/js/2.4c9f8890.chunk.js.LICENSE.txt",
+    "static/css/main.13865f98.chunk.css.map": "/static/css/main.13865f98.chunk.css.map",
+    "static/js/2.03738d74.chunk.js.LICENSE.txt": "/static/js/2.03738d74.chunk.js.LICENSE.txt",
     "static/media/Aeronautics.4b43605b.png": "/static/media/Aeronautics.4b43605b.png",
     "static/media/App.scss": "/static/media/RobotoSlab-Regular.9b6fabb6.eot",
     "static/media/Astronomy.2e88bf4e.png": "/static/media/Astronomy.2e88bf4e.png",
     "static/media/BWSingIn.3dcc868f.jpg": "/static/media/BWSingIn.3dcc868f.jpg",
     "static/media/Chemistry.093fc02f.png": "/static/media/Chemistry.093fc02f.png",
-    "static/media/styles.module.scss": "/static/media/orbitImage.b37d8480.png",
+    "static/media/styles.module.scss": "/static/media/whoweare.6db9fd85.png",
     "static/media/Electrical-Engineering.488bebfa.png": "/static/media/Electrical-Engineering.488bebfa.png",
     "static/media/Gastronomy.d4d88b0f.png": "/static/media/Gastronomy.d4d88b0f.png",
     "static/media/Geology.8dfd1f60.png": "/static/media/Geology.8dfd1f60.png",
@@ -42,8 +42,8 @@
   "entrypoints": [
     "static/js/runtime-main.6097e04a.js",
     "static/css/2.16cde405.chunk.css",
-    "static/js/2.4c9f8890.chunk.js",
-    "static/css/main.8234c1f7.chunk.css",
-    "static/js/main.852403d6.chunk.js"
+    "static/js/2.03738d74.chunk.js",
+    "static/css/main.13865f98.chunk.css",
+    "static/js/main.b9effb93.chunk.js"
   ]
 }
