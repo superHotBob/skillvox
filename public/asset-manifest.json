@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.1182929f.chunk.css",
-    "main.js": "/static/js/main.844a0424.chunk.js",
-    "main.js.map": "/static/js/main.844a0424.chunk.js.map",
+    "main.css": "/static/css/main.a7cf06d8.chunk.css",
+    "main.js": "/static/js/main.4689ecd9.chunk.js",
+    "main.js.map": "/static/js/main.4689ecd9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6097e04a.js",
     "runtime-main.js.map": "/static/js/runtime-main.6097e04a.js.map",
     "static/css/2.16cde405.chunk.css": "/static/css/2.16cde405.chunk.css",
-    "static/js/2.40707d13.chunk.js": "/static/js/2.40707d13.chunk.js",
-    "static/js/2.40707d13.chunk.js.map": "/static/js/2.40707d13.chunk.js.map",
+    "static/js/2.e9360ff1.chunk.js": "/static/js/2.e9360ff1.chunk.js",
+    "static/js/2.e9360ff1.chunk.js.map": "/static/js/2.e9360ff1.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.16cde405.chunk.css.map": "/static/css/2.16cde405.chunk.css.map",
-    "static/css/main.1182929f.chunk.css.map": "/static/css/main.1182929f.chunk.css.map",
-    "static/js/2.40707d13.chunk.js.LICENSE.txt": "/static/js/2.40707d13.chunk.js.LICENSE.txt",
+    "static/css/main.a7cf06d8.chunk.css.map": "/static/css/main.a7cf06d8.chunk.css.map",
+    "static/js/2.e9360ff1.chunk.js.LICENSE.txt": "/static/js/2.e9360ff1.chunk.js.LICENSE.txt",
     "static/media/Aeronautics.4b43605b.png": "/static/media/Aeronautics.4b43605b.png",
     "static/media/App.scss": "/static/media/RobotoSlab-Regular.9b6fabb6.eot",
+    "static/media/Arrow_icon.18cfed98.svg": "/static/media/Arrow_icon.18cfed98.svg",
     "static/media/Astronomy.2e88bf4e.png": "/static/media/Astronomy.2e88bf4e.png",
     "static/media/BWSingIn.3dcc868f.jpg": "/static/media/BWSingIn.3dcc868f.jpg",
     "static/media/Chemistry.093fc02f.png": "/static/media/Chemistry.093fc02f.png",
@@ -32,9 +33,12 @@
     "static/media/Tourism.baf72f1e.png": "/static/media/Tourism.baf72f1e.png",
     "static/media/addAnotherUser.3af093c4.svg": "/static/media/addAnotherUser.3af093c4.svg",
     "static/media/burgerMenu.e32c6fec.svg": "/static/media/burgerMenu.e32c6fec.svg",
+    "static/media/close_white.741f9eec.svg": "/static/media/close_white.741f9eec.svg",
     "static/media/coloredSignInNew.54830b59.jpg": "/static/media/coloredSignInNew.54830b59.jpg",
     "static/media/grayArrowLeft.bf6b9b70.svg": "/static/media/grayArrowLeft.bf6b9b70.svg",
+    "static/media/mobileMenuWhiteArrow.43039db9.svg": "/static/media/mobileMenuWhiteArrow.43039db9.svg",
     "static/media/pauseBtn.8dca22c1.svg": "/static/media/pauseBtn.8dca22c1.svg",
+    "static/media/pen.d61ca48a.svg": "/static/media/pen.d61ca48a.svg",
     "static/media/right.ebca0c58.svg": "/static/media/right.ebca0c58.svg",
     "static/media/skillvox_mainPage.ac632679.mp4": "/static/media/skillvox_mainPage.ac632679.mp4",
     "static/media/tick-sign.b9297cd8.svg": "/static/media/tick-sign.b9297cd8.svg",
@@ -43,8 +47,8 @@
   "entrypoints": [
     "static/js/runtime-main.6097e04a.js",
     "static/css/2.16cde405.chunk.css",
-    "static/js/2.40707d13.chunk.js",
-    "static/css/main.1182929f.chunk.css",
-    "static/js/main.844a0424.chunk.js"
+    "static/js/2.e9360ff1.chunk.js",
+    "static/css/main.a7cf06d8.chunk.css",
+    "static/js/main.4689ecd9.chunk.js"
   ]
 }
