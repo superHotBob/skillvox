@@ -1,5 +1,7 @@
 const path = require('path');
 const express = require('express');
+const { ApolloServer, gql } = require('apollo-server-express');
+const expressGraphQL = require('express-graphql')
 const app = express();
 const cors = require('cors');
 const port = process.env.PORT || 3003;
@@ -7,6 +9,33 @@ const publicPath = path.join(__dirname,'public');
 
 app.use(cors());
 
+const schema = gql`
+  type Query {
+    me: User
+  }
+ 
+  type User {
+    username: String!
+  }
+`;
+ 
+const resolvers = {
+  Query: {
+    me: () => {
+      return {
+        username: 'Robin Wieruch',
+      };
+    },
+  },
+};
+ 
+const server = new ApolloServer({
+  typeDefs: schema,
+  resolvers,
+});
+ 
+
+// const httpServer = http.createServer(app);
 app.use(express.static(__dirname + '/public'));
 
 app.get('/summary',(req,res) => {
@@ -16,7 +45,15 @@ app.get('/summary',(req,res) => {
 app.get('*', (req, res) => {
     res.sendFile(path.join(publicPath, 'index.html'));
 });
-
+// async function start() {
+// await server.start();
+// server.applyMiddleware({ app, path: '/graphql' });
+// };
+// start();
+// app.use('/graphql', expressGraphQL({
+//     schema,
+//     graphiql: true
+// }))
 app.listen(port, () => {
     console.log(`Server is up on port ${port}!`);
 });
