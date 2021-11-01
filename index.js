@@ -19,20 +19,7 @@ const schema = gql`
   }
 `;
  
-const resolvers = {
-  Query: {
-    me: () => {
-      return {
-        username: 'Robin Wieruch',
-      };
-    },
-  },
-};
- 
-const server = new ApolloServer({
-  typeDefs: schema,
-  resolvers,
-});
+c
  
 
 // const httpServer = http.createServer(app);
