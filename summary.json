@@ -63,7 +63,7 @@
           ],
           "all_orders": [
             {
-                // "order_id": "1",
+               
                 "purchase_order_id": "SOP.3435-4602-8819-0381",
 				        "invoice_id": "1234",
                 "payment_status": "Pending",
@@ -98,7 +98,7 @@
                 "total_incl_tax": "3,750.00"
                 },
               {
-                // "order_id": "2",
+               
                 "purchase_order_id": "SOP.3435-4602-8819-0382",
 				        "invoice_id": "1235",
                 "payment_status": "Paid",
@@ -133,7 +133,7 @@
                 "total_incl_tax": "7,500.00"
                 },
                 {
-                    // "order_id": "3",
+                   
                     "purchase_order_id": "SOP.3435-4602-8819-0383",
 				            "invoice_id": "1236",
                     "payment_status": "Partially received",
@@ -168,7 +168,7 @@
                     "total_incl_tax": "20,160.00"
                     },
                     {
-                        // "order_id": "4",
+                       
                         "purchase_order_id": "SOP.3435-4602-8819-0384",
 				                "invoice_id": "1237",
                         "payment_status": "Unpaid",
@@ -203,7 +203,7 @@
                         "total_incl_tax": "3,750.00"
                         },
                         {
-                            // "order_id": "5",
+                           
                             "purchase_order_id": "SOP.3435-4602-8819-0385",
 				                    "invoice_id": "1238",
                             "payment_status": "Partially received",
@@ -238,7 +238,7 @@
                             "total_incl_tax": "3,750.00"
                             },
                             {
-                                // "order_id": "6",
+                               
                                 "purchase_order_id": "SOP.3435-4602-8819-0386",
 				                        "invoice_id": "1239",
                                 "payment_status": "Unpaid",
@@ -273,7 +273,7 @@
                                 "total_incl_tax": "3,750.00"
                                 },
                                 {
-                                    // "order_id": "7",
+                                   
                                     "purchase_order_id": "SOP.3435-4602-8819-0388",
 				                            "invoice_id": "1230",
                                     "payment_status": "Partially received",

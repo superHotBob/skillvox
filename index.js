@@ -9,17 +9,7 @@ const publicPath = path.join(__dirname,'public');
 
 app.use(cors());
 
-const schema = gql`
-  type Query {
-    me: User
-  }
- 
-  type User {
-    username: String!
-  }
-`;
- 
-c
+
  
 
 // const httpServer = http.createServer(app);
