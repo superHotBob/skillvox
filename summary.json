@@ -76,22 +76,28 @@
                 "campaign_title": "Upfront for 2021/21 sponsorship campaign",
                 "campaign_regions": [
                   {
-                    "region_name": "Western Europe"
+                    "region_name": "Western Europe",
+                    "region_price": "5,000"
                   },
                   {
-                    "region_name": "Eastern Europe"
+                    "region_name": "Eastern Europe",
+                    "region_price": "5,000"
                   },
                   {
-                    "region_name": "South America"
+                    "region_name": "South America",
+                    "region_price": "5,000"
                   },
                   {
-                    "region_name": "Middle East & Africa"
+                    "region_name": "Middle East & Africa",
+                    "region_price": "5,000"
                   },
                   {
-                    "region_name": "North America"
+                    "region_name": "North America",
+                    "region_price": "5,000"
                   },
                   {
-                    "region_name": "Asia Pacific"
+                    "region_name": "Asia Pacific",
+                    "region_price": "5,750"
                   }
                 ],
                 "order_subtotal": "3,750.00",
@@ -111,22 +117,20 @@
                 "campaign_title": "Upfront for 2021/21 sponsorship campaign",
                 "campaign_regions": [
                   {
-                    "region_name": "Western Europe"
+                    "region_name": "Western Europe",
+                    "region_price": "2,000"
+                  },                  
+                  {
+                    "region_name": "Middle East & Africa",
+                    "region_price": "2,000"
                   },
                   {
-                    "region_name": "Eastern Europe"
+                    "region_name": "North America",
+                    "region_price": "1,000"
                   },
                   {
-                    "region_name": "South America"
-                  },
-                  {
-                    "region_name": "Middle East & Africa"
-                  },
-                  {
-                    "region_name": "North America"
-                  },
-                  {
-                    "region_name": "Asia Pacific"
+                    "region_name": "Asia Pacific",
+                    "region_price": "1,250"
                   }
                 ],
                 "order_subtotal": "6,250.00",
@@ -146,22 +150,20 @@
                     "campaign_title": "Upfront for 2021/21 sponsorship campaign",
                     "campaign_regions": [
                       {
-                        "region_name": "Western Europe"
+                        "region_name": "Western Europe",
+                        "region_price": "4,000"
                       },
                       {
-                        "region_name": "Eastern Europe"
+                        "region_name": "Eastern Europe",
+                        "region_price": "4,000"
                       },
                       {
-                        "region_name": "South America"
-                      },
+                        "region_name": "South America",
+                        "region_price": "4,000"
+                      },                     
                       {
-                        "region_name": "Middle East & Africa"
-                      },
-                      {
-                        "region_name": "North America"
-                      },
-                      {
-                        "region_name": "Asia Pacific"
+                        "region_name": "Asia Pacific",
+                        "region_price": "4,800"
                       }
                     ],
                     "order_subtotal": "16,800.00",
@@ -181,26 +183,32 @@
                         "campaign_title": "Upfront for 2021/21 sponsorship campaign",
                         "campaign_regions": [
                           {
-                            "region_name": "Western Europe"
+                            "region_name": "Western Europe",
+                            "region_price": "5,000"
                           },
                           {
-                            "region_name": "Eastern Europe"
+                            "region_name": "Eastern Europe",
+                            "region_price": "5,000"
                           },
                           {
-                            "region_name": "South America"
+                            "region_name": "South America",
+                            "region_price": "5,000"
                           },
                           {
-                            "region_name": "Middle East & Africa"
+                            "region_name": "Middle East & Africa",
+                            "region_price": "5,750"
                           },
                           {
-                            "region_name": "North America"
+                            "region_name": "North America",
+                            "region_price": "5,000"
                           },
                           {
-                            "region_name": "Asia Pacific"
+                            "region_name": "Asia Pacific",
+                            "region_price": "5,000"
                           }
                         ],
-                        "order_subtotal": "3,750.00",
-                        "total_incl_tax": "3,750.00"
+                        "order_subtotal": "30,750.00",
+                        "total_incl_tax": "30,750.00"
                         },
                         {
                            
@@ -216,23 +224,17 @@
                             "campaign_title": "Upfront for 2021/21 sponsorship campaign",
                             "campaign_regions": [
                               {
-                                "region_name": "Western Europe"
+                                "region_name": "Western Europe",
+                                "region_price": "1,000"
                               },
                               {
-                                "region_name": "Eastern Europe"
+                                "region_name": "Eastern Europe",
+                                "region_price": "1,000"
                               },
                               {
-                                "region_name": "South America"
-                              },
-                              {
-                                "region_name": "Middle East & Africa"
-                              },
-                              {
-                                "region_name": "North America"
-                              },
-                              {
-                                "region_name": "Asia Pacific"
-                              }
+                                "region_name": "South America",
+                                "region_price": "1,750"
+                              }                              
                             ],
                             "order_subtotal": "3,750.00",
                             "total_incl_tax": "3,750.00"
@@ -251,22 +253,16 @@
                                 "campaign_title": "Upfront for 2021/21 sponsorship campaign",
                                 "campaign_regions": [
                                   {
-                                    "region_name": "Western Europe"
+                                    "region_name": "Western Europe",
+                                    "region_price": "1,000"
+                                  },                                  
+                                  {
+                                    "region_name": "North America",
+                                    "region_price": "1,750"
                                   },
                                   {
-                                    "region_name": "Eastern Europe"
-                                  },
-                                  {
-                                    "region_name": "South America"
-                                  },
-                                  {
-                                    "region_name": "Middle East & Africa"
-                                  },
-                                  {
-                                    "region_name": "North America"
-                                  },
-                                  {
-                                    "region_name": "Asia Pacific"
+                                    "region_name": "Asia Pacific",
+                                    "region_price": "1,000"
                                   }
                                 ],
                                 "order_subtotal": "3,750.00",
@@ -286,26 +282,24 @@
                                     "campaign_title": "Upfront for 2021/21 sponsorship campaign",
                                     "campaign_regions": [
                                       {
-                                        "region_name": "Western Europe"
+                                        "region_name": "Western Europe",
+                                        "region_price": "2,000"
                                       },
                                       {
-                                        "region_name": "Eastern Europe"
+                                        "region_name": "Eastern Europe",
+                                        "region_price": "2,000"
                                       },
                                       {
-                                        "region_name": "South America"
+                                        "region_name": "South America",
+                                        "region_price": "2,750"
                                       },
                                       {
-                                        "region_name": "Middle East & Africa"
-                                      },
-                                      {
-                                        "region_name": "North America"
-                                      },
-                                      {
-                                        "region_name": "Asia Pacific"
+                                        "region_name": "Middle East & Africa",
+                                        "region_price": "2,000"
                                       }
                                     ],
-                                    "order_subtotal": "3,750.00",
-                                    "total_incl_tax": "3,750.00"
+                                    "order_subtotal": "8,750.00",
+                                    "total_incl_tax": "8,750.00"
                                     }
             
             ]
