@@ -18,6 +18,9 @@ app.use(express.static(__dirname + '/public'));
 app.get('/summary',(req,res) => {
     res.sendFile(path.join(__dirname, 'summary.json'));
 });
+app.get('/summary_brand',(req,res) => {
+    res.sendFile(path.join(__dirname, 'summary_brand.json'));
+});
 
 app.get('*', (req, res) => {
     res.sendFile(path.join(publicPath, 'index.html'));

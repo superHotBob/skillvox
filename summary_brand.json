@@ -1,0 +1,276 @@
+{
+  "data":{
+     "brand_id":"3m_01",
+     "brandName":"Volkwagen",
+     "brandLogoURL":"https://www.voxdigital.by/sponsors/images/brands/volkswagen_01/Volkswagen.png",
+     "total_pledged":"52,499",
+     "total_paid":"52,499",
+     "currency_symbol_placement":"after",
+     "preferred_currency_symbol":"€",
+     "sponsored_regions":[
+        {
+           "name":"Western Europe",
+           "communities_sponsored":"5"
+        },
+        {
+           "name":"Eastern Europe",
+           "communities_sponsored":"5"
+        },
+        {
+           "name":"South America",
+           "communities_sponsored":"5"
+        },
+        {
+           "name":"Middle East & Africa",
+           "communities_sponsored":"3"
+        },
+        {
+           "name":"North America",
+           "communities_sponsored":"2"
+        },
+        {
+           "name":"Asia Pacific",
+           "communities_sponsored":"2"
+        }
+     ],
+     "all_orders":[
+        {
+           "order_id":"1",
+           "payment_status":"Pending",
+           "fufillment_status":"Pending",
+           "paymentTime":"2020-05-10T13:49:51.141Z",
+           "brand_admin":"Simon Johnson",
+           "payee":"Paul Phillips",
+           "payees_dept":"Marketing",
+           "community_sponsored":[
+              {
+                 "community_title":"Engineering",
+                 "campaign_title":"Upfront for 2021/21 sponsorship campaign",
+                 "campaign_regions":[
+                    {
+                       "region_name":"Western Europe"
+                    },
+                    {
+                       "region_name":"Eastern Europe"
+                    },
+                    {
+                       "region_name":"South America"
+                    },
+                    {
+                       "region_name":"Middle East & Africa"
+                    },
+                    {
+                       "region_name":"North America"
+                    },
+                    {
+                       "region_name":"Asia Pacific"
+                    }
+                 ],
+                 "order_subtotal":"3,750.00",
+                 "total_incl_tax":"3,750.00"
+              }
+           ]
+        },
+        {
+           "order_id":"2",
+           "payment_status":"Paid",
+           "fufillment_status":"Partially fufilled",
+           "paymentTime":"2020-05-10T13:49:51.141Z",
+           "brand_admin":"Simon Johnson",
+           "payee":"Paul Phillips",
+           "payees_dept":"Marketing",
+           "community_sponsored":[
+              {
+                 "community_title":"Multimedia",
+                 "campaign_title":"Upfront for 2021/21 sponsorship campaign",
+                 "campaign_regions":[
+                    {
+                       "region_name":"Western Europe"
+                    },
+                    {
+                       "region_name":"Eastern Europe"
+                    },
+                    {
+                       "region_name":"South America"
+                    },
+                    {
+                       "region_name":"Middle East & Africa"
+                    },
+                    {
+                       "region_name":"North America"
+                    },
+                    {
+                       "region_name":"Asia Pacific"
+                    }
+                 ],
+                 "order_subtotal":"6,250.00",
+                 "total_incl_tax":"7,500.00"
+              }
+           ]
+        },
+        {
+           "order_id":"3",
+           "payment_status":"Unpaid",
+           "fufillment_status":"Completed",
+           "paymentTime":"2020-06-10T13:49:51.141Z",
+           "brand_admin":"Simon Johnson",
+           "payee":"Paul Phillips",
+           "payees_dept":"Marketing",
+           "total_paid":"20,000",
+           "community_sponsored":[
+              {
+                 "community_title":"Health & Safety",
+                 "campaign_title":"Upfront for 2021/21 sponsorship campaign",
+                 "campaign_regions":[
+                    {
+                       "region_name":"Western Europe"
+                    },
+                    {
+                       "region_name":"Eastern Europe"
+                    },
+                    {
+                       "region_name":"South America"
+                    },
+                    {
+                       "region_name":"Middle East & Africa"
+                    },
+                    {
+                       "region_name":"North America"
+                    },
+                    {
+                       "region_name":"Asia Pacific"
+                    }
+                 ],
+                 "order_subtotal":"3,750",
+                 "total_incl_tax":"3,750"
+              },
+              {
+                 "community_title":"Information Technology",
+                 "campaign_title":"Upfront for 2021/21 sponsorship campaign",
+                 "campaign_regions":[
+                    {
+                       "region_name":"Western Europe"
+                    },
+                    {
+                       "region_name":"Eastern Europe"
+                    },
+                    {
+                       "region_name":"South America"
+                    },
+                    {
+                       "region_name":"Middle East & Africa"
+                    },
+                    {
+                       "region_name":"North America"
+                    },
+                    {
+                       "region_name":"Asia Pacific"
+                    }
+                 ],
+                 "order_subtotal":"16,800.00",
+                 "total_incl_tax":"20,160.00"
+              },
+              {
+                 "community_title":"Engineering",
+                 "campaign_title":"Upfront for 2021/21 sponsorship campaign",
+                 "campaign_regions":[
+                    {
+                       "region_name":"Western Europe"
+                    },
+                    {
+                       "region_name":"Eastern Europe"
+                    },
+                    {
+                       "region_name":"South America"
+                    },
+                    {
+                       "region_name":"Middle East & Africa"
+                    },
+                    {
+                       "region_name":"North America"
+                    },
+                    {
+                       "region_name":"Asia Pacific"
+                    }
+                 ],
+                 "order_subtotal":"3,750",
+                 "total_incl_tax":"3,750"
+              }
+           ]
+        },
+        {
+           "order_id":"4",
+           "payment_status":"Unpaid",
+           "fufillment_status":"Completed",
+           "paymentTime":"2020-06-10T13:49:51.141Z",
+           "brand_admin":"Simon Johnson",
+           "payee":"Paul Phillips",
+           "payees_dept":"Marketing",
+           "community_sponsored":{
+              "community_title":"Programming",
+              "campaign_title":"Upfront for 2021/21 sponsorship campaign",
+              "campaign_regions":[
+                 {
+                    "region_name":"Western Europe"
+                 },
+                 {
+                    "region_name":"Eastern Europe"
+                 },
+                 {
+                    "region_name":"South America"
+                 },
+                 {
+                    "region_name":"Middle East & Africa"
+                 },
+                 {
+                    "region_name":"North America"
+                 },
+                 {
+                    "region_name":"Asia Pacific"
+                 }
+              ],
+              "order_subtotal":"3,750",
+              "total_incl_tax":"3,750"
+           }
+        },
+        {
+           "order_id":"5",
+           "payment_status":"Partially received",
+           "fufillment_status":"Pending",
+           "paymentTime":"2020-06-10T13:49:51.141Z",
+           "brand_admin":"Simon Johnson",
+           "payee":"Paul Phillips",
+           "payees_dept":"Marketing",
+           "total_paid":"20,000",
+           "community_sponsored":[
+              {
+                 "community_title":"Programming",
+                 "campaign_title":"Upfront for 2021/21 sponsorship campaign",
+                 "campaign_regions":[
+                    {
+                       "region_name":"Western Europe"
+                    },
+                    {
+                       "region_name":"Eastern Europe"
+                    },
+                    {
+                       "region_name":"South America"
+                    },
+                    {
+                       "region_name":"Middle East & Africa"
+                    },
+                    {
+                       "region_name":"North America"
+                    },
+                    {
+                       "region_name":"Asia Pacific"
+                    }
+                 ],
+                 "order_subtotal":"3,750",
+                 "total_incl_tax":"3,750"
+              }
+           ]
+        }
+     ]
+  }
+}

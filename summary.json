@@ -4,7 +4,7 @@
     "brand_representative":
       {
         "name": "Jochen Senqpiehl",
-        "legally_registered_brandName": "Volkwagen AG",
+        "legally_registered_brandName": "Volkswagen AG",
         "billing_address1": "Berliner Ring 2",
         "billing_address2": "",
         "city": "Wolfsburg",
@@ -29,7 +29,7 @@
     "scheduled_fufillment": "07/2021 through 07/2020",
 
          "brand_id": "3m_01",
-         "brandName": "Volkwagen",
+         "brandName": "Volkswagen",
          "brandLogoURL": "https://www.voxdigital.by/sponsors/images/brands/volkswagen_01/Volkswagen.png",
          "total_pledged": "52,499",
          "total_paid": "52,499",
