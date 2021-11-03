@@ -1,10 +1,11 @@
 {
   "data":{
      "brand_id":"3m_01",
-     "brandName":"Volkwagen",
+     "brandName":"Volkswagen",
      "brandLogoURL":"https://www.voxdigital.by/sponsors/images/brands/volkswagen_01/Volkswagen.png",
      "total_pledged":"52,499",
      "total_paid":"52,499",
+     "brand_admin":"Simon Johnson",
      "currency_symbol_placement":"after",
      "preferred_currency_symbol":"€",
      "sponsored_regions":[
@@ -38,8 +39,7 @@
            "order_id":"1",
            "payment_status":"Pending",
            "fufillment_status":"Pending",
-           "paymentTime":"2020-05-10T13:49:51.141Z",
-           "brand_admin":"Simon Johnson",
+           "paymentTime":"2020-05-10T13:49:51.141Z",           
            "payee":"Paul Phillips",
            "payees_dept":"Marketing",
            "community_sponsored":[
@@ -75,8 +75,7 @@
            "order_id":"2",
            "payment_status":"Paid",
            "fufillment_status":"Partially fufilled",
-           "paymentTime":"2020-05-10T13:49:51.141Z",
-           "brand_admin":"Simon Johnson",
+           "paymentTime":"2020-05-10T13:49:51.141Z",          
            "payee":"Paul Phillips",
            "payees_dept":"Marketing",
            "community_sponsored":[
@@ -112,8 +111,7 @@
            "order_id":"3",
            "payment_status":"Unpaid",
            "fufillment_status":"Completed",
-           "paymentTime":"2020-06-10T13:49:51.141Z",
-           "brand_admin":"Simon Johnson",
+           "paymentTime":"2020-06-10T13:49:51.141Z",           
            "payee":"Paul Phillips",
            "payees_dept":"Marketing",
            "total_paid":"20,000",
@@ -202,8 +200,7 @@
            "order_id":"4",
            "payment_status":"Unpaid",
            "fufillment_status":"Completed",
-           "paymentTime":"2020-06-10T13:49:51.141Z",
-           "brand_admin":"Simon Johnson",
+           "paymentTime":"2020-06-10T13:49:51.141Z",          
            "payee":"Paul Phillips",
            "payees_dept":"Marketing",
            "community_sponsored":{
@@ -237,8 +234,7 @@
            "order_id":"5",
            "payment_status":"Partially received",
            "fufillment_status":"Pending",
-           "paymentTime":"2020-06-10T13:49:51.141Z",
-           "brand_admin":"Simon Johnson",
+           "paymentTime":"2020-06-10T13:49:51.141Z",          
            "payee":"Paul Phillips",
            "payees_dept":"Marketing",
            "total_paid":"20,000",
