@@ -42,7 +42,7 @@
            "paymentTime":"2020-05-10T13:49:51.141Z",           
            "payee":"Paul Phillips",
            "payees_dept":"Marketing",
-           "community_sponsored":[
+           "community_sponsored": [
               {
                  "community_title":"Engineering",
                  "campaign_title":"Upfront for 2021/21 sponsorship campaign",
@@ -203,32 +203,34 @@
            "paymentTime":"2020-06-10T13:49:51.141Z",          
            "payee":"Paul Phillips",
            "payees_dept":"Marketing",
-           "community_sponsored":{
-              "community_title":"Programming",
-              "campaign_title":"Upfront for 2021/21 sponsorship campaign",
-              "campaign_regions":[
-                 {
-                    "region_name":"Western Europe"
-                 },
-                 {
-                    "region_name":"Eastern Europe"
-                 },
-                 {
-                    "region_name":"South America"
-                 },
-                 {
-                    "region_name":"Middle East & Africa"
-                 },
-                 {
-                    "region_name":"North America"
-                 },
-                 {
-                    "region_name":"Asia Pacific"
-                 }
-              ],
-              "order_subtotal":"3,750",
-              "total_incl_tax":"3,750"
-           }
+           "community_sponsored": [
+               {
+                "community_title":"Programming",
+                "campaign_title":"Upfront for 2021/21 sponsorship campaign",
+                "campaign_regions":[
+                    {
+                        "region_name":"Western Europe"
+                    },
+                    {
+                        "region_name":"Eastern Europe"
+                    },
+                    {
+                        "region_name":"South America"
+                    },
+                    {
+                        "region_name":"Middle East & Africa"
+                    },
+                    {
+                        "region_name":"North America"
+                    },
+                    {
+                        "region_name":"Asia Pacific"
+                    }
+                ],
+                "order_subtotal":"3,750",
+                "total_incl_tax":"3,750"
+                }
+            ]
         },
         {
            "order_id":"5",
