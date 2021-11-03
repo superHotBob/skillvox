@@ -139,8 +139,8 @@
                        "region_name":"Asia Pacific"
                     }
                  ],
-                 "order_subtotal":"3,750",
-                 "total_incl_tax":"3,750"
+                 "order_subtotal":"3,750.00",
+                 "total_incl_tax":"3,750.00"
               },
               {
                  "community_title":"Information Technology",
@@ -191,8 +191,8 @@
                        "region_name":"Asia Pacific"
                     }
                  ],
-                 "order_subtotal":"3,750",
-                 "total_incl_tax":"3,750"
+                 "order_subtotal":"3,750.00",
+                 "total_incl_tax":"3,750.00"
               }
            ]
         },
@@ -227,8 +227,8 @@
                         "region_name":"Asia Pacific"
                     }
                 ],
-                "order_subtotal":"3,750",
-                "total_incl_tax":"3,750"
+                "order_subtotal":"3,750.00",
+                "total_incl_tax":"3,750.00"
                 }
             ]
         },
@@ -264,8 +264,8 @@
                        "region_name":"Asia Pacific"
                     }
                  ],
-                 "order_subtotal":"3,750",
-                 "total_incl_tax":"3,750"
+                 "order_subtotal":"3,750.00",
+                 "total_incl_tax":"3,750.00"
               }
            ]
         }
