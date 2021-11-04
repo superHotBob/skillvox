@@ -1,5 +1,31 @@
 {
   "data":{
+   "brand_representative":
+   {
+     "name": "Jochen Senqpiehl",
+     "legally_registered_brandName": "Volkswagen AG",
+     "billing_address1": "Berliner Ring 2",
+     "billing_address2": "",
+     "city": "Wolfsburg",
+     "state": "",
+     "post_code": "38440",
+     "country": "Germany",
+     "telephone": "+49-5361-9-0"
+   }, 
+ "skillvox_representative":
+   {
+     "name": "Paul Peterson",
+     "legally_registered_business": "Skillvox BV",
+     "business_address1": "Keizersqracht",
+     "billing_address2": "",
+     "city": "Amstedam",
+     "state": "",
+     "post_code": "1017EG",
+     "country": "Netherlands",
+     "telephone": ""
+   }, 
+ "deliverables": "18 million sponsor impressions",
+ "scheduled_fufillment": "07/2021 through 07/2020",
      "brand_id":"3m_01",
      "brandName":"Volkswagen",
      "brandLogoURL":"https://www.voxdigital.by/sponsors/images/brands/volkswagen_01/Volkswagen.png",
