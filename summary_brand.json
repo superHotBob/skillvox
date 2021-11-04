@@ -242,32 +242,32 @@
            "total_paid":"20,000",
            "community_sponsored":[
               {
-                 "community_title":"Programming",
-                 "campaign_title":"Upfront for 2021/21 sponsorship campaign",
-                 "campaign_regions":[
-                    {
-                       "region_name":"Western Europe"
-                    },
-                    {
-                       "region_name":"Eastern Europe"
-                    },
-                    {
-                       "region_name":"South America"
-                    },
-                    {
-                       "region_name":"Middle East & Africa"
-                    },
-                    {
-                       "region_name":"North America"
-                    },
-                    {
-                       "region_name":"Asia Pacific"
-                    }
-                 ],
-                 "order_subtotal":"3,750.00",
-                 "total_incl_tax":"3,750.00"
+                    "community_title":"Programming",
+                    "campaign_title":"Upfront for 2021/21 sponsorship campaign",
+                    "campaign_regions":[
+                        {
+                        "region_name":"Western Europe"
+                        },
+                        {
+                        "region_name":"Eastern Europe"
+                        },
+                        {
+                        "region_name":"South America"
+                        },
+                        {
+                        "region_name":"Middle East & Africa"
+                        },
+                        {
+                        "region_name":"North America"
+                        },
+                        {
+                        "region_name":"Asia Pacific"
+                        }
+                    ],
+                    "order_subtotal":"3,750.00",
+                    "total_incl_tax":"3,750.00"
               }
-           ]
+            ]
         }
      ]
   }
