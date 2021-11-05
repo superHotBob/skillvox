@@ -62,8 +62,7 @@
             }
           ],
           "all_orders": [
-            {
-               
+            {               
                 "purchase_order_id": "SOP.3435-4602-8819-0381",
 				        "invoice_id": "1234",
                 "payment_status": "Pending",

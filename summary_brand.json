@@ -1,18 +1,18 @@
 {
   "data":{
    "brand_representative":
-   {
-     "name": "Jochen Senqpiehl",
-     "legally_registered_brandName": "Volkswagen AG",
-     "billing_address1": "Berliner Ring 2",
-     "billing_address2": "",
-     "city": "Wolfsburg",
-     "state": "",
-     "post_code": "38440",
-     "country": "Germany",
-     "telephone": "+49-5361-9-0"
+      {
+      "name": "Jochen Senqpiehl",
+      "legally_registered_brandName": "Volkswagen AG",
+      "billing_address1": "Berliner Ring 2",
+      "billing_address2": "",
+      "city": "Wolfsburg",
+      "state": "",
+      "post_code": "38440",
+      "country": "Germany",
+      "telephone": "+49-5361-9-0"
    }, 
- "skillvox_representative":
+   "skillvox_representative":
    {
      "name": "Paul Peterson",
      "legally_registered_business": "Skillvox BV",
