@@ -1,7 +1,6 @@
 const path = require('path');
 const express = require('express');
-const { ApolloServer, gql } = require('apollo-server-express');
-const expressGraphQL = require('express-graphql')
+
 const app = express();
 const cors = require('cors');
 const port = process.env.PORT || 3003;
@@ -25,15 +24,7 @@ app.get('/summary_brand',(req,res) => {
 app.get('*', (req, res) => {
     res.sendFile(path.join(publicPath, 'index.html'));
 });
-// async function start() {
-// await server.start();
-// server.applyMiddleware({ app, path: '/graphql' });
-// };
-// start();
-// app.use('/graphql', expressGraphQL({
-//     schema,
-//     graphiql: true
-// }))
+
 app.listen(port, () => {
     console.log(`Server is up on port ${port}!`);
 });
