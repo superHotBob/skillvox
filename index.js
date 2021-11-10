@@ -19,7 +19,7 @@ em.emit('FirstEvent', 'This is my first Node.js event emitter example.');
 
 var myLogger = function (req, res, next) {
     const my_data = new Date();
-    fs.appendFile('log.txt', my_data.toString() + '\n'  ,(err)=>{
+    fs.appendFile('log.txt', req.ip + ',' + my_data.toString() + '\n'  ,(err)=>{
         if(err) console.log(err);
     })
     next();
