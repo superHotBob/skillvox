@@ -5,6 +5,7 @@ const events = require('events');
 const rateLimit = require("express-rate-limit");
 const app = express();
 const cors = require('cors');
+const userController = require("./controllers/users");
 const port = process.env.PORT || 3003;
 const publicPath = path.join(__dirname,'public');
 
@@ -34,6 +35,8 @@ var myLogger = function (req, res, next) {
   };
   
 
+app.get("/users", userController.create); 
+ 
 app.use(express.static(__dirname + '/public'));
 // app.use(myLogger);
 
