@@ -11,12 +11,12 @@ const publicPath = path.join(__dirname,'public');
 
 app.use(cors());
 
-const limiter = rateLimit({
-    windowMs: 20 * 60 * 1000, // 15 minutes
-    max: 100, // limit each IP to 100 requests per windowMs
-    message: "Too many requests from this IP, please try again after a minute"
-});
-app.use(limiter);
+// const limiter = rateLimit({
+//     windowMs: 2000 * 60 * 1000, // 15 minutes
+//     max: 100, // limit each IP to 100 requests per windowMs
+//     message: "Too many requests from this IP, please try again after a minute"
+// });
+// app.use(limiter);
 const em = new events.EventEmitter();
 em.on('FirstEvent', function (data) {
     console.log('First subscriber: ' + data);
