@@ -35,23 +35,26 @@ var myLogger = function (req, res, next) {
   };
   
 
-app.get("/users", userController.create); 
+// app.get("/users", userController.create); 
  
 app.use(express.static(__dirname + '/public'));
+app.get('/*', function (req, res) {
+    res.sendFile(path.join(__dirname + '/public', 'index.html'));
+  });
 // app.use(myLogger);
 
-app.get('/summary',(req,res) => {
-    res.sendFile(path.join(__dirname, 'summary.json'));
-});
-app.get('/summary_brand',(req,res) => {
-    res.sendFile(path.join(__dirname, 'summary_brand.json'));
-});
-app.get('/read_log',(req,res) => {
-    fs.readFile('log.txt', 'utf8',function(err,data){
-        if( err )  err;        
-        res.sendFile(path.join(__dirname,'log.txt'));
-    });
-});
+// app.get('/summary',(req,res) => {
+//     res.sendFile(path.join(__dirname, 'summary.json'));
+// });
+// app.get('/summary_brand',(req,res) => {
+//     res.sendFile(path.join(__dirname, 'summary_brand.json'));
+// });
+// app.get('/read_log',(req,res) => {
+//     fs.readFile('log.txt', 'utf8',function(err,data){
+//         if( err )  err;        
+//         res.sendFile(path.join(__dirname,'log.txt'));
+//     });
+// });
     
 
 // app.get('*', (req, res) => {
