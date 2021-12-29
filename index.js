@@ -38,14 +38,18 @@ var myLogger = function (req, res, next) {
 // app.get("/users", userController.create); 
  
 app.use(express.static(__dirname + '/public'));
-app.get('/*', function (req, res) {
-    res.sendFile(path.join(__dirname + '/public', 'index.html'));
+app.get('/send', (req,res) =>{
+  res.status(201).send({ error: 'something blew up' });
+})
+app.get('/summary',(req,res) => {
+    res.sendFile(path.join(__dirname, 'summary.json'));
+});
+app.get('/*', function (req,res) {  
+    res.status(200).sendFile(path.join(__dirname + '/public', 'index.html'));
   });
 // app.use(myLogger);
 
-// app.get('/summary',(req,res) => {
-//     res.sendFile(path.join(__dirname, 'summary.json'));
-// });
+
 // app.get('/summary_brand',(req,res) => {
 //     res.sendFile(path.join(__dirname, 'summary_brand.json'));
 // });
