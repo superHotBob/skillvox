@@ -50,9 +50,9 @@ app.get('/*', function (req,res) {
 // app.use(myLogger);
 
 
-// app.get('/summary_brand',(req,res) => {
-//     res.sendFile(path.join(__dirname, 'summary_brand.json'));
-// });
+app.get('/summary_brand',(req,res) => {
+    res.sendFile(path.join(__dirname, 'summary_brand.json'));
+});
 // app.get('/read_log',(req,res) => {
 //     fs.readFile('log.txt', 'utf8',function(err,data){
 //         if( err )  err;        
