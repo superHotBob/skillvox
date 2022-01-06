@@ -44,15 +44,16 @@ app.get('/send', (req,res) =>{
 app.get('/summary',(req,res) => {
     res.sendFile(path.join(__dirname, 'summary.json'));
 });
+app.get('/summary_brand',(req,res) => {
+  res.sendFile(path.join(__dirname, 'summary_brand.json'));
+});
 app.get('/*', function (req,res) {  
     res.status(200).sendFile(path.join(__dirname + '/public', 'index.html'));
   });
 // app.use(myLogger);
 
 
-app.get('/summary_brand',(req,res) => {
-    res.sendFile(path.join(__dirname, 'summary_brand.json'));
-});
+
 // app.get('/read_log',(req,res) => {
 //     fs.readFile('log.txt', 'utf8',function(err,data){
 //         if( err )  err;        
